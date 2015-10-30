@@ -1,4 +1,4 @@
-(defproject cljs-tvos "0.1.0-SNAPSHOT"
+(defproject cljs-tvos "0.1.0"
   :description "ClojureScript bindings for AppleTV's TVML and TVJS"
   :url "https://github.com/joshuamiller/cljs-tvos"
   :dependencies [[org.clojure/clojure "1.7.0"]
