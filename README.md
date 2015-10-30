@@ -2,6 +2,8 @@
 
 `cljs-tvos` provides ClojureScript bindings for AppleTV's TVML and TVJS.
 
+[![Clojars Project](http://clojars.org/cljs-tvos/latest-version.svg)](http://clojars.org/cljs-tvos)
+
 ## Getting Started
 
 Follow
